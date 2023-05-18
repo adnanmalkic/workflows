@@ -38,3 +38,14 @@ VSCode has a lot to help you write Markdown:
   [VSCode Documentation](https://code.visualstudio.com/Docs/languages/markdown)
 - And there are many helpful extensions you can install. The most important are
   listed in the Precourse assignments
+
+## Example
+
+- [headers](./examples/headers.md)
+- [images](./examples/images.md)
+- [emphasis](./examples/emphasis.md)
+- [links](./examples/links.md)
+- [lists](./examples/lists.md)
+- [text](./examples/text.md)
+- [table](./examples/tables.md)
+- [code blocks](./examples/code-blocks.md)
