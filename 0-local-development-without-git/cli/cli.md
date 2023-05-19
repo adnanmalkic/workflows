@@ -1,4 +1,4 @@
-# Command line interface
+# Command Line Interface
 
 ## What is CLI?
 
@@ -8,7 +8,7 @@
 >
 > [https://www.freecodecamp.org/](https://www.freecodecamp.org/news/how-to-use-the-cli-beginner-guide/)
 
-## Basic command Unix-like
+## Basic Command Unix-like
 
 `man` : to show the usage manual, or help page, for a command
 
@@ -78,8 +78,8 @@ cat  file.txt
 exit
 ```
 
-`history` : to displays an enumerated list with the commands you’ve used in
-  the past
+`history` : to displays an enumerated list with the commands you’ve used in the
+past
 
 ```Markdown
 history
