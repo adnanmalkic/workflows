@@ -1,6 +1,6 @@
 # NPM
 
-> What is npm?
+## What is npm?
 
 NPM is Node Package Manager, provides two functionalities:
 
@@ -8,6 +8,8 @@ NPM is Node Package Manager, provides two functionalities:
   search.nodejs.org
 - Command line utility to install Node.js packages, do version management and
   dependency management of Node.js packages.
+
+## Some npm Commands
 
 To check npm version
 
@@ -33,7 +35,7 @@ To update package
 npm update  <package name>
 ```
 
-To install dependency
+To install a package and any packages that it depends on
 
 ```Markdown
 npm install

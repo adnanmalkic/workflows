@@ -1,6 +1,6 @@
-# VS code basic shortcuts
+# VS Code Basic Shortcuts
 
-## open a repository in VS code
+## Open a Repository in VS Code
 
 ### Mac
 
@@ -14,7 +14,7 @@ command + o
 Ctrl + o
 ```
 
-## open VS code terminal
+## Open VS Code from Terminal
 
 ### Mac
 
@@ -28,7 +28,7 @@ command + j
 Ctrl + `
 ```
 
-## add a new file
+## Add a New File
 
 ### Mac
 
@@ -42,7 +42,7 @@ command + n
 Ctrl + n
 ```
 
-## add a new folder
+## Add a New Folder
 
 ### Mac
 
@@ -56,7 +56,7 @@ command + shift + p  => type : new folder => select File : New Folder
 Ctrl + shift + p  => type : new folder => select File : New Folder
 ```
 
-## format a file
+## Format a File
 
 ### Mac
 
@@ -70,7 +70,7 @@ shift + option + f
 shift + alt + f
 ```
 
-## more shortcuts
+## More Shortcuts
 
 - [Mac](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
 - [Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)

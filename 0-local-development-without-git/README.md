@@ -1,6 +1,6 @@
 # Local Development Without Git
 
-## Command line interface(CLI)
+## Command Line Interface(CLI)
 
 - [CLICK HERE](./cli/cli.md)
 
@@ -8,7 +8,7 @@
 
 - [CLICK HERE](./markdown/README.md)
 
-## VS code
+## VS Code
 
 - [CLICK HERE](./vscode/vscode.md)
 
