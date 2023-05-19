@@ -5,6 +5,8 @@
 > The Command Line Interface (CLI) is an editing environment that is text-based.
 > It uses specified text (known as commands) to interact with the computer and
 > perform numerous operations, including installing and working with programs.
+>
+> [https://www.freecodecamp.org/](https://www.freecodecamp.org/news/how-to-use-the-cli-beginner-guide/)
 
 ## Basic command Unix-like
 
